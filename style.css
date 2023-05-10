@@ -30,7 +30,7 @@
     color: white;
 }
 
-.myProfile {
+.active {
     margin-right: 20px;
     text-decoration: none;
     color: white;
@@ -42,7 +42,7 @@
     color: white;
 }
 
-.signOut {
+.btn {
     margin-right: 20px;
     text-decoration: none;
     color: white;
